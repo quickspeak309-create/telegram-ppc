@@ -1,4 +1,4 @@
 #pragma once
 
-#define TELEGRAM_API_ID 0
-#define TELEGRAM_API_HASH @"replace-with-your-telegram-api-hash"
+#define TELEGRAM_API_ID 21136829
+#define TELEGRAM_API_HASH @"1e52f801e9cef3163df3e27bd3461894"
